@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
 	int a,b,r;
@@ -16,5 +17,7 @@ int main()
 	{
 		printf("%d",r);
 	}
-	return 0;
+	https://github.com/NaveenNaresh/Pughal/blob/master/23.creturn 0;
+}
+getch();
 }
