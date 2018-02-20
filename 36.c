@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 #include<string.h>
 int main()
 {
@@ -23,4 +24,6 @@ s++;
 }}
 printf("number of special characters are:%d",b);
 return 0;
+}
+getch{};
 }
