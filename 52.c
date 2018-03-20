@@ -42,5 +42,5 @@ int main(void)
 		printf("\n enter numbers from 1 to 10");
 	}
  
-	return 0;
+	
 }
